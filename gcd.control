@@ -1,0 +1,4 @@
+# gcd extension
+comment = 'find gcd of integer array'
+default_version = '0.0.1'
+relocatable = true
